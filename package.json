@@ -9,7 +9,7 @@
     "cors": "^2.8.4",
     "express": "^4.16.2",
     "nodemon": "^1.14.11",
-    "prettier": "^1.16.4"
+    "prettier": "^2.0.5"
   },
   "devDependencies": {
     "concurrently": "^4.1.0"
